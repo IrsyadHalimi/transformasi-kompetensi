@@ -1,0 +1,6 @@
+{
+  "name": "Transformasi Kompetensi",
+  "description": "Company profile profesional untuk Lembaga Pelatihan & Kompetensi Transformasi Kompetensi, berfokus pada pengembangan SDM unggul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
