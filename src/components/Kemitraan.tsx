@@ -248,7 +248,7 @@ export default function Kemitraan({ currentConcept }: KemitraanProps) {
                 </div>
 
                 <div className="text-[11px] text-slate-400 italic mt-6 border-t border-slate-700/10 pt-3">
-                  *Telah diverifikasi sesuai basis koordinasi NIB pusat perizinan wilayah Indonesia PT Transformasi Kompetensi Nusantara.
+                  *Telah diverifikasi sesuai basis koordinasi NIB pusat perizinan wilayah Indonesia PT Transformasi Kompetensi Indonesia.
                 </div>
               </div>
             </div>
